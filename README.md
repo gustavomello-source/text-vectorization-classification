@@ -256,14 +256,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@gustavomello-source](https://github.com/gustavomello-source)
 - Repository: [TCC2](https://github.com/gustavomello-source/TCC2)
 
-## Future Work
-
-- [ ] Add unit tests
-- [ ] Create Jupyter notebook examples
-- [ ] Add more datasets
-- [ ] Implement deep learning classifiers (CNN, LSTM)
-- [ ] Add hyperparameter optimization
-- [ ] Create visualization dashboard
-- [ ] Add multi-language support
-
 ---
