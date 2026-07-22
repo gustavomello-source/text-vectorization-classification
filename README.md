@@ -254,6 +254,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Gustavo Mello**
 - GitHub: [@gustavomello-source](https://github.com/gustavomello-source)
-- Repository: [TCC2](https://github.com/gustavomello-source/TCC2)
+- Repository: [text-vectorization-classification](https://github.com/gustavomello-source/text-vectorization-classification)
 
 ---
